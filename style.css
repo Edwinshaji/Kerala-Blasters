@@ -1,0 +1,11 @@
+.row{
+    color: rgb(28, 28, 207);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    width: 100%;
+    margin-top: 1rem;
+}
+.card-title{
+    text-align: center;
+}
